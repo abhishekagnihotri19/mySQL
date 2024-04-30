@@ -1,0 +1,2 @@
+# mySQL
+PRACTICE AND PROJECTS OF mysql
